@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Sticks (2).csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Enemy.cs">
+    <Files>
+      <File FileName="Assets\Script\ShotGun.cs" Line="1" Column="1" />
+      <File FileName="Assets\AchievementManager.cs" Line="214" Column="1" />
+      <File FileName="Assets\Script\Enemy.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
