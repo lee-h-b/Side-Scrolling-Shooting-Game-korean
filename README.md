@@ -6,3 +6,4 @@
  게임에 관한 설명은 
  https://docs.google.com/document/d/1G2YC-G7vMJtRDu_5E_iUTLncMrhQFgtQL6IZArSZPPE/edit?usp=sharing
  여기서 보실 수 있습니다
+게임영상 https://www.youtube.com/watch?v=w5xPjvN5Ik0
